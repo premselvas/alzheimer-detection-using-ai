@@ -1,4 +1,4 @@
-# alzheimer-detection-using-ai
+
 # 🧠 Alzheimer's Disease Detection System using Deep Learning
 
 An advanced AI-powered web application for detecting and classifying Alzheimer's disease stages from brain MRI scans using Convolutional Neural Networks (CNN). This project provides accurate multi-class prediction along with visual heatmap explanations to assist in understanding model decisions.
